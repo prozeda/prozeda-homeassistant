@@ -27,7 +27,7 @@ This integration allows you to integrate data from Prozeda solar controllers int
    - Go to "Integrations"
    - Click the three dots (⋮) in the top right
    - Select "Custom repositories"
-   - Add this URL: `https://github.com/YOUR-USERNAME/prozeda-homeassistant`
+   - Add this URL: `https://github.com/prozeda/prozeda-homeassistant`
    - Category: "Integration"
    - Click "Add"
 
